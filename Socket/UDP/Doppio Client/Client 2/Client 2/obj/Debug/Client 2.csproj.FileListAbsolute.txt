@@ -1,0 +1,7 @@
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\bin\Debug\Client 2.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\bin\Debug\Client 2.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\bin\Debug\Client 2.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\obj\Debug\Client 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\obj\Debug\Client 2.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\obj\Debug\Client 2.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Doppio Client\Client 2\Client 2\obj\Debug\Client 2.pdb

@@ -1,0 +1,24 @@
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\bin\Debug\Client.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\bin\Debug\Client.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\bin\Debug\Client.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\obj\Debug\Client.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4\Client\obj\Debug\Client.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\bin\Debug\Client.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\bin\Debug\Client.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\bin\Debug\Client.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\obj\Debug\Client.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Copy\Client\obj\Debug\Client.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\bin\Debug\Client.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\bin\Debug\Client.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\bin\Debug\Client.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\obj\Debug\Client.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\TCP\Forza 4 - Definitivo\Client\obj\Debug\Client.pdb

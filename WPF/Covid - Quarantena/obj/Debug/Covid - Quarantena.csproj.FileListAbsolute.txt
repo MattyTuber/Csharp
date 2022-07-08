@@ -1,0 +1,16 @@
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\MainWindow.g.cs
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\App.g.cs
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena_MarkupCompile.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena_MarkupCompile.lref
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\bin\Debug\Covid - Quarantena.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\bin\Debug\Covid - Quarantena.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\bin\Debug\Covid - Quarantena.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\MainWindow.baml
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.g.resources
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid___Quarantena.Properties.Resources.resources
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.csproj.GenerateResource.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\WPF\Covid - Quarantena\obj\Debug\Covid - Quarantena.csproj.CoreCompileInputs.cache

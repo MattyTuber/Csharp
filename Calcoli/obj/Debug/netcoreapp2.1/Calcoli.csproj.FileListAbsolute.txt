@@ -1,0 +1,11 @@
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\obj\Debug\netcoreapp2.1\Calcoli.csprojAssemblyReference.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\obj\Debug\netcoreapp2.1\Calcoli.csproj.CoreCompileInputs.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\obj\Debug\netcoreapp2.1\Calcoli.AssemblyInfoInputs.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\obj\Debug\netcoreapp2.1\Calcoli.AssemblyInfo.cs
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\bin\Debug\netcoreapp2.1\Calcoli.deps.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\bin\Debug\netcoreapp2.1\Calcoli.runtimeconfig.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\bin\Debug\netcoreapp2.1\Calcoli.runtimeconfig.dev.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\bin\Debug\netcoreapp2.1\Calcoli.dll
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\bin\Debug\netcoreapp2.1\Calcoli.pdb
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\obj\Debug\netcoreapp2.1\Calcoli.dll
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcoli\obj\Debug\netcoreapp2.1\Calcoli.pdb

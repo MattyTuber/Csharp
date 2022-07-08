@@ -1,0 +1,16 @@
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\obj\Debug\UDP Sincrono.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\obj\Debug\UDP Sincrono.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\obj\Debug\UDP Sincrono.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\bin\Debug\UDP Sincrono.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\bin\Debug\UDP Sincrono.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\bin\Debug\UDP Sincrono.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\obj\Debug\UDP Sincrono.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP Sincrono\UDP Sincrono\obj\Debug\UDP Sincrono.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\bin\Debug\UDP Sincrono.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\bin\Debug\UDP Sincrono.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\bin\Debug\UDP Sincrono.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\obj\Debug\UDP Sincrono.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\obj\Debug\UDP Sincrono.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\obj\Debug\UDP Sincrono.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\obj\Debug\UDP Sincrono.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Client\UDP Sincrono\obj\Debug\UDP Sincrono.pdb

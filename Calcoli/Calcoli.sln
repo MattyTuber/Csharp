@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcoli", "Calcoli.csproj", "{A56821C6-7D43-4D4F-BF1D-D1C93D656E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56821C6-7D43-4D4F-BF1D-D1C93D656E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56821C6-7D43-4D4F-BF1D-D1C93D656E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56821C6-7D43-4D4F-BF1D-D1C93D656E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56821C6-7D43-4D4F-BF1D-D1C93D656E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F602C144-A247-42FA-A2DE-7B11DBDFA0B9}
+	EndGlobalSection
+EndGlobal

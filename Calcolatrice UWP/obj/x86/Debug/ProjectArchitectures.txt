@@ -1,0 +1,1 @@
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice UWP\Calcolatrice.csproj;x86

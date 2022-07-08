@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee1d78bd-3f59-4822-be5f-25e58c63229b": {
+      "ProjectGuid": "ee1d78bd-3f59-4822-be5f-25e58c63229b",
+      "DisplayName": "Covid - Quarantena",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

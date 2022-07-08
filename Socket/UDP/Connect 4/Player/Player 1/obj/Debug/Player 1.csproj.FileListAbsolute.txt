@@ -1,0 +1,16 @@
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\obj\Debug\Player 1.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\obj\Debug\Player 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\obj\Debug\Player 1.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\bin\Debug\Player 1.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\bin\Debug\Player 1.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\bin\Debug\Player 1.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\obj\Debug\Player 1.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player 1\Player 1\obj\Debug\Player 1.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\bin\Debug\Player 1.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\bin\Debug\Player 1.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\bin\Debug\Player 1.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\obj\Debug\Player 1.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\obj\Debug\Player 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\obj\Debug\Player 1.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\obj\Debug\Player 1.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Connect 4\Player\Player 1\obj\Debug\Player 1.pdb

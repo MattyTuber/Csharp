@@ -1,0 +1,8 @@
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe.config
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\bin\Debug\UDP_Server.pdb
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.AssemblyReference.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.CoreCompileInputs.cache
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\obj\Debug\UDP_Server.exe
+C:\Users\Teo\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Socket\UDP\Primo Esercizio\UDP_Server\UDP_Server\obj\Debug\UDP_Server.pdb

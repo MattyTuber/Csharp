@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30a6c864-bc58-4227-b8a3-f6a407a6bb1b": {
+      "ProjectGuid": "30a6c864-bc58-4227-b8a3-f6a407a6bb1b",
+      "DisplayName": "Server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

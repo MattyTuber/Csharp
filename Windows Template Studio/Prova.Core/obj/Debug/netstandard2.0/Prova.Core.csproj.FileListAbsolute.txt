@@ -1,0 +1,9 @@
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\obj\Debug\netstandard2.0\Prova.Core.csproj.CoreCompileInputs.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\obj\Debug\netstandard2.0\Prova.Core.AssemblyInfoInputs.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\obj\Debug\netstandard2.0\Prova.Core.AssemblyInfo.cs
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\bin\Debug\netstandard2.0\Prova.Core.deps.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\bin\Debug\netstandard2.0\Prova.Core.dll
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\bin\Debug\netstandard2.0\Prova.Core.pdb
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\obj\Debug\netstandard2.0\Prova.Core.csprojAssemblyReference.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\obj\Debug\netstandard2.0\Prova.Core.dll
+C:\Users\MattyTuber\Desktop\Teo\C#\Windows Template Studio\Prova.Core\obj\Debug\netstandard2.0\Prova.Core.pdb

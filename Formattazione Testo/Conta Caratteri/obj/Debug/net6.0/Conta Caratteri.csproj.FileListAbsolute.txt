@@ -1,0 +1,16 @@
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\bin\Debug\net6.0\Conta Caratteri.exe
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\bin\Debug\net6.0\Conta Caratteri.deps.json
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\bin\Debug\net6.0\Conta Caratteri.runtimeconfig.json
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\bin\Debug\net6.0\Conta Caratteri.dll
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\bin\Debug\net6.0\ref\Conta Caratteri.dll
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\bin\Debug\net6.0\Conta Caratteri.pdb
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.GlobalUsings.g.cs
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.csproj.AssemblyReference.cache
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.AssemblyInfoInputs.cache
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.AssemblyInfo.cs
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.csproj.CoreCompileInputs.cache
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.dll
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\ref\Conta Caratteri.dll
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.pdb
+C:\Users\MattyTuber\OneDrive - ISTITUTO FAUSER NOVARA\Desktop\Teo\Software Developing\C#\Formattazine Testo\Conta Caratteri\obj\Debug\net6.0\Conta Caratteri.genruntimeconfig.cache

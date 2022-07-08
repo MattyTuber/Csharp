@@ -1,0 +1,16 @@
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\formattazione testo.exe
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\formattazione testo.deps.json
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\formattazione testo.runtimeconfig.json
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\formattazione testo.runtimeconfig.dev.json
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\formattazione testo.dll
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\ref\formattazione testo.dll
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\bin\Debug\net5.0\formattazione testo.pdb
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.csproj.AssemblyReference.cache
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.AssemblyInfo.cs
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.dll
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\ref\formattazione testo.dll
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.pdb
+C:\Users\aless\Desktop\Fauser\Informatica\File\formattazione testo\obj\Debug\net5.0\formattazione testo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\bin\Debug\netcoreapp2.1\Calcolatrice Console.deps.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\bin\Debug\netcoreapp2.1\Calcolatrice Console.runtimeconfig.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\bin\Debug\netcoreapp2.1\Calcolatrice Console.runtimeconfig.dev.json
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\bin\Debug\netcoreapp2.1\Calcolatrice Console.dll
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\bin\Debug\netcoreapp2.1\Calcolatrice Console.pdb
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\obj\Debug\netcoreapp2.1\Calcolatrice Console.csprojAssemblyReference.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\obj\Debug\netcoreapp2.1\Calcolatrice Console.csproj.CoreCompileInputs.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\obj\Debug\netcoreapp2.1\Calcolatrice Console.AssemblyInfoInputs.cache
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\obj\Debug\netcoreapp2.1\Calcolatrice Console.AssemblyInfo.cs
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\obj\Debug\netcoreapp2.1\Calcolatrice Console.dll
+C:\Users\MattyTuber\Desktop\Teo\C#\Calcolatrice Console\obj\Debug\netcoreapp2.1\Calcolatrice Console.pdb

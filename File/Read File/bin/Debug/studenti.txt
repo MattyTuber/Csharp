@@ -1,0 +1,6 @@
+Rossi Ernesto;Novara;NO;Via Roma 23;12/01/2001;3333421345;5B
+Franchi Luca;Trecate;NO;Via Milano 2;01/12/2000;3203457890;4C
+Verdi Elena;Magenta;MI;Via Marconi 13;21/03/2001;3409090321;3C
+Andreis Alessia;Borgosesia;VC;P.zzle V.Milanaccio 5;19/12/2003;3477568283;4B
+Broglio Matteo;Ghislarengo;VC;Via Roma 16/B;14/01/2003;3920227704;5C
+Bessi Pietro;Novara;NO;Via Andrea Costa;04/04/04;3409786543;4B

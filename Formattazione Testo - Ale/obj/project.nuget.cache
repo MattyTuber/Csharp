@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YusYVB/Xdu/7uQjI15rrsjco5dh9J19EctxmDmoUqufsfztUH3VK7Emcw2Zva5Q5nClKkv1JRqqoqQQ5zSotuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MattyTuber\\OneDrive - ISTITUTO FAUSER NOVARA\\Desktop\\Teo\\Software Developing\\C#\\Formattazione Testo - Ale\\formattazione testo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MattyTuber\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\MattyTuber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattyTuber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattyTuber\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

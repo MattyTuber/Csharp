@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59dce9f8-a5f7-4191-8cbf-e36fc09c98e3": {
+      "ProjectGuid": "59dce9f8-a5f7-4191-8cbf-e36fc09c98e3",
+      "DisplayName": "UDP Sincrono",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
